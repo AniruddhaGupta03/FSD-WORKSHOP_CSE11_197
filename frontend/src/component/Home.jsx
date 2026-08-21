@@ -1,4 +1,3 @@
-import React from 'react'
 import pexelsImage from '../assets/pexels-andrew-15863066.jpg'
 import a from '../assets/download.jpeg'
 import img1 from"../assets/img1.webp"
