@@ -41,7 +41,7 @@ button.addEventListener("click", handleClick);
 
 button.dispatchEvent("save");
 
-button.dispatchEvent("click", {
+button.dispatchEvent("click",{
   details: "button clicked"
 });
 
